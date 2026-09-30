@@ -598,12 +598,7 @@ Special acknowledgement to the developers and researchers behind:
 <img width="985" height="487" alt="image" src="https://github.com/user-attachments/assets/0820863d-d702-4eb0-9502-0dec6880c475" />
                                             
 RETRIEVAL BGE MODEL 	
-Metrics 	Value 
-Average 	0.84 
-Max 	    0.845 
-Min 	    0.835 
+Metrics 	Value :- Average-0.84 , Max-0.845 , Min-0.835 
 
-Explanation Metrics 		             |                  Translation Metrics 	
-Models 	    Alignment 	Faithfulness |	Combined score 	Semantic similarity 	Retrieval Time 
-Phi-3-Mini 	  0.8255 	     0.8599 	 |     0.8427 	          0.7802 	          26.45sec 
-
+Explanation Metrics:- Models-Phi-3-Mini, Alignment-0.8255, Faithfulness-0.8599
+Translation Metrics:- Combined score-0.8427, Semantic similarity-0.7802, Retrieval Time-26.45sec
